@@ -15,3 +15,5 @@ Enjoy coding in a new way!
 1. Support js scripts inside the yaml files
 2. Find a generic covenant way to handle state (props/store/etc...)
 3. Publish to npm
+4. Support configuration file
+5. Convert sdk code to ts and make the config file with type support
