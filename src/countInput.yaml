@@ -1,0 +1,12 @@
+element: input
+state:
+  count: 3
+attributes:
+  style:
+    background-color: white
+    border: 1px solid grey
+    width: 170px
+    height: 50px
+  onClick: console.log('clicked')
+  onChange: console.log('changed')
+  value: count

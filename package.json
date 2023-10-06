@@ -1,0 +1,21 @@
+{
+  "name": "yamo",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Yuval Lotem",
+  "license": "ISC",
+  "scripts": {
+    "build:example": "node yamler",
+    "build:yamler": "cd yamler && npm run build",
+    "clean": "rm -rf dist",
+    "test": "test"
+  },
+  "devDependencies": {
+    "@types/node": "^18.5.7",
+    "js-yaml": "^4.1.0",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "get-value": "^3.0.1"
+  }
+}

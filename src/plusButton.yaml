@@ -1,0 +1,8 @@
+element: button
+attributes:
+  style:
+    border: 1px solid grey
+    width: 50px
+    height: 50px
+  onClick: console.log('plus')
+children: "+"

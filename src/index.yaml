@@ -1,0 +1,14 @@
+element: div
+attributes:
+  style:
+    background-color: "#0D8AF0"
+    width: 97vw
+    height: 97vh
+children:
+  element: div
+  attributes:
+    style:
+      background-color: grey
+      width: 80%
+      height: 80%
+  children: [./src/minusButton.yaml, ./src/countInput.yaml,./src/plusButton.yaml]

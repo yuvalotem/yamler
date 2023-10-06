@@ -1,0 +1,14 @@
+{
+    "name": "yamo",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "tsc"
+    },
+    "author": "Yuval Lotem",
+    "license": "ISC",
+    "dev-dependencies": {
+        "js-yaml": "^4.1.0",
+        "typescript": "^3.9.10"
+    }
+}
