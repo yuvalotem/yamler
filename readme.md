@@ -17,3 +17,4 @@ Enjoy coding in a new way!
 3. Publish to npm
 4. Support configuration file
 5. Convert sdk code to ts and make the config file with type support
+6. Support local server with hmr to improve dev expiriance
